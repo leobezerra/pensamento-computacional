@@ -28,4 +28,33 @@ Caso escolha esta opção, siga as instruções [deste tutorial](clone.md).
 
 ---
 
-## Exercícios
+## Pensamento computacional
+
+Este repositório contém uma série de problemas a serem resolvidos computacionalmente.
+
+Para isto, você deve trabalhar três habilidades fundamentais:
+1. Abstrair e modelar problemas
+2. Propor soluções algorítmicas
+3. Implementar e avaliar as soluções propostas
+
+#### Etapa #1
+
+A primeira habilidade envolve a capacidade analítica de enxergar os aspectos mais importantes do problema. 
+
+Assim como na matemática, a melhor forma de aprimorar esta habilidade é resolvendo um grande número de problemas e aprendendo a enxergar seus padrões.
+
+#### Etapa #2
+
+A segunda habilidade envolve a capacidade de compreender lógica de programação e como utilizá-la para propor uma solução para o problema.
+
+Neste repositório, a cada problema apresentado, você deverá analisar quais blocos estão à sua disposição e propor uma solução utilizando apenas esses blocos.
+
+> **Atenção**: para desenvolver esta habilidade, utilizaremos o conceito de **computação desplugada**. Isto significa que você deverá propor a solução sem o auxílio do computador, apenas com caneta e papel 😏 
+
+#### Etapa #3
+
+A terceira habilidade envolve a capacidade de traduzir a solução abstrata proposta em uma implementação concreta que o computador possa executar.
+
+Aqui, usaremos o Blockly como plataforma de implementação e avaliação. 
+
+A capacidade de avaliar a solução proposta e sua implementação é importante porque, em caso de erro, você deverá conseguir identificar como voltar às etapas anteriores e corrigir o que estiver errado.

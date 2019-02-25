@@ -10,6 +10,22 @@ Antes de tentar os exercícios deste repositório, complete primeiro os níveis 
 
 ## Executando o Blockly
 
-A forma mais simples de executar o Blockly neste repositório é clicar no link abaixo. Siga as instruções [deste tutorial](binder.md) para utilizar esta opção.
+#### Opção 1: Binder
+
+A forma mais simples de executar o Blockly neste repositório é clicar no badge abaixo (imagem). 
+
+Caso escolha esta opção, siga as instruções [deste tutorial](binder.md).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pensamento-computacional/master)
+
+#### Opção 2: Clone
+
+A segunda forma de executar o Blockly neste repositório é cloná-lo para sua máquina. 
+
+Esta opção exige que você tenha um maior conhecimento de computação, uma vez que terá que instalar alguns programas e pacotes. 
+
+Caso escolha esta opção, siga as instruções [deste tutorial](clone.md).
+
+---
+
+## Exercícios

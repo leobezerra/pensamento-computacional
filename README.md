@@ -4,7 +4,7 @@ Este repositório foi pensado para quem está tendo um primeiro contato com pens
 
 Também pode ser útil pra quem está iniciando em programação e já teve primeiros contatos com alguma linguagem de programação, mas quer melhorar sua capacidade de resolver problemas e entender melhor os fundamentos da lógica de programação.
 
-Antes de tentar os exercícios deste repositório, complete primeiro os níveis de programação visual do curso de <a href="https://studio.code.org/s/20-hour" target="_blank">Introdução acelerada à ciência da computação</a> do site <a  href="https://code.org">Code.org</a>.
+Antes de tentar os exercícios deste repositório, complete primeiro os níveis de programação visual do curso de [Introdução acelerada à ciência da computação](https://studio.code.org/s/20-hour) do site [Code.org](https://code.org).
 
 ---
 

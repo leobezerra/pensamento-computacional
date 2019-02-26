@@ -4,6 +4,8 @@ Este repositório foi pensado para quem está tendo um primeiro contato com pens
 
 Também pode ser útil pra quem está iniciando em programação e já teve primeiros contatos com alguma linguagem de programação, mas quer melhorar sua capacidade de resolver problemas e entender melhor os fundamentos da lógica de programação.
 
+> Se você está mais avançado do que isso, dê uma olhada nesse outro [repositório](https://github.com/leobezerra/python-zero) 🙃
+
 Antes de tentar os exercícios deste repositório, complete primeiro os níveis de programação visual do curso de [Introdução acelerada à ciência da computação](https://studio.code.org/s/20-hour) do site [Code.org](https://code.org).
 
 ## Executando o Blockly
@@ -59,7 +61,7 @@ A capacidade de avaliar a solução proposta e sua implementação é importante
 
 Este repositório de problemas é mantido de forma contínua e incremental. 
 
-Os problemas abaixo estão agrupados pelas habilidades específicas que eles mais trabalham, ainda que possam exigir outros habilidades complementares.
+Os problemas abaixo estão agrupados pelas habilidades específicas que eles mais trabalham, ainda que possam exigir outras habilidades complementares.
 
 * [01 - Algoritmos e programação estruturada](01.md)
 * [02 - Repetição e formas de representação](02.md) 
@@ -75,9 +77,9 @@ Estes problemas focam na capacidade de identificar o tipo de repetição adequad
 
 #### Estratégias de solução
 
-A principal habilidade trabalhada pro estes problemas é a compreensão de estratégias de solução complexas, construídas não só a partir de decisão e repetição, mas também de coleções de dados.
+A principal habilidade trabalhada por estes problemas é a compreensão de estratégias de solução complexas, construídas não só a partir de decisão e repetição, mas também de coleções de dados.
 
 ## Disclaimer
-> Este material é usado na 3a unidade da disciplina Pensamento Computacional do Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte.
+> Este material é usado na 2a unidade da disciplina Pensamento Computacional do Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte.
 
 * Autor: Leonardo Bezerra

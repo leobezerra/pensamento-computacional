@@ -10,17 +10,33 @@ Aguarde um pouco a página terminar de carregar e você verá uma página semelh
 
 ![img-binder-1](images/img-binder-1.png)
 
-Quando a página estiver completamente carregada, clique no nome do notebook que deseja abrir. Ele irá te levar a uma nova página parecida com a página abaixo
+Quando a página estiver completamente carregada, clique no nome do notebook que deseja abrir.
+
+> Notebooks são arquivos especiais cuja extensão é `ipynb`. Neste caso, o notebook que você deve abrir é o `blockly.ipynb`.
+
+O notebook é aberto em uma nova aba, em uma página parecida com a imagem abaixo:
 
 ![img-binder-2](images/img-binder-2.png)
 
-Esta é a interface do *jupyter notebook*, porém antes de começar a usar, você precisa instalar as bibliotecas e tudo que é necessário para que funcione direitinho.
+Esta é a interface do *Jupyter notebook*. 
 
-Para isso você deve selecionar a primeira célula (que começa com `!git clone ...`) e executá-la, você pode apertar `Alt + Enter` ou clicar na aba `Cell` e em seguida em `Run Cells`.
+Antes de começar a usar, você precisa instalar a biblioteca que dá acesso ao Blockly.
 
-Por fim, você precisa recarregar a página, clique em `F5` no seu teclado.
+> Tudo será instalado no ambiente virtual que você está utilizando, nada rodará localmente no seu computador 😉
 
-*Ps: Tudo será instalado no ambiente virtual que você está utilizando, nada rodará localmente no seu computador.*
+Para isso você deve selecionar a primeira célula (que começa com `!git clone ...`) e executá-la. 
+
+Você pode fazer isso apertando `Alt + Enter` ou clicando na aba `Cell` e em seguida em `Run Cells`.
+
+> Quando a execução de uma célula é concluída, aparece um número entre colchetes do lado dela 👍🏻
+
+Uma vez instalado o Blockly, você precisa recarregar a página (aperte `F5` no seu teclado).
+
+> Se o navegador pedir confirmação de que você deseja deixar a página, pode confirmar 👍🏻
+
+Se a instalação tiver funcionado, a barra de menu do Jupyter deverá ter agora uma opção "Blockly language". 
+
+Por padrão, o Blockly vêm em inglês, mas você pode escolher a que preferir (incluindo Português brasileiro).
 
 Agora que tudo está instalado, você só precisa executar a próxima célula do notebook e seu ambiente de aprendizado com o blockly estará pronto!
 

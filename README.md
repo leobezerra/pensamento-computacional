@@ -58,3 +58,38 @@ A terceira habilidade envolve a capacidade de traduzir a solução abstrata prop
 Aqui, usaremos o Blockly como plataforma de implementação e avaliação. 
 
 A capacidade de avaliar a solução proposta e sua implementação é importante porque, em caso de erro, você deverá conseguir identificar como voltar às etapas anteriores e corrigir o que estiver errado.
+
+## Problemas
+
+Este repositório de problemas é mantido de forma contínua e incremental. 
+
+Os problemas abaixo estão agrupados pelas habilidades específicas que eles mais trabalham, ainda que possam exigir outros habilidades complementares.
+
+* [01 - Algoritmos e programação estruturada](01.md)
+* [02 - Repetição e formas de representação](02.md) 
+* [03 - Estratégias de solução](03.md)
+
+---
+
+#### Algoritmos e programação estruturada
+
+O foco destes problemas está na capacidade de propor soluções baseadas em estruturas de decisão, servindo como uma introdução ao conceito de algoritmos e de programação estruturada.
+
+---
+
+#### Repetição e formas de representação
+
+Estes problemas focam na capacidade de identificar o tipo de repetição adequado para a resolução de determinados problemas, além de trabalhar a habilidade de entender algoritmos sob diferentes formas de representação.
+
+---
+
+#### Estratégias de solução
+
+A principal habilidade trabalhada pro estes problemas é a compreensão de estratégias de solução complexas, construídas não só a partir de decisão e repetição, mas também de coleções de dados.
+
+---
+
+### Disclaimer
+> Este material é usado na 3a unidade da disciplina Pensamento Computacional do Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte.
+
+* Autor: Leonardo Bezerra

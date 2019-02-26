@@ -6,8 +6,6 @@ Também pode ser útil pra quem está iniciando em programação e já teve prim
 
 Antes de tentar os exercícios deste repositório, complete primeiro os níveis de programação visual do curso de [Introdução acelerada à ciência da computação](https://studio.code.org/s/20-hour) do site [Code.org](https://code.org).
 
----
-
 ## Executando o Blockly
 
 #### Opção 1: Binder
@@ -25,8 +23,6 @@ A segunda forma de executar o Blockly neste repositório é cloná-lo para sua m
 Esta opção exige que você tenha um maior conhecimento de computação, uma vez que terá que instalar alguns programas e pacotes. 
 
 Caso escolha esta opção, siga as instruções [deste tutorial](clone.md).
-
----
 
 ## Pensamento computacional
 
@@ -69,27 +65,19 @@ Os problemas abaixo estão agrupados pelas habilidades específicas que eles mai
 * [02 - Repetição e formas de representação](02.md) 
 * [03 - Estratégias de solução](03.md)
 
----
-
 #### Algoritmos e programação estruturada
 
 O foco destes problemas está na capacidade de propor soluções baseadas em estruturas de decisão, servindo como uma introdução ao conceito de algoritmos e de programação estruturada.
-
----
 
 #### Repetição e formas de representação
 
 Estes problemas focam na capacidade de identificar o tipo de repetição adequado para a resolução de determinados problemas, além de trabalhar a habilidade de entender algoritmos sob diferentes formas de representação.
 
----
-
 #### Estratégias de solução
 
 A principal habilidade trabalhada pro estes problemas é a compreensão de estratégias de solução complexas, construídas não só a partir de decisão e repetição, mas também de coleções de dados.
 
----
-
-### Disclaimer
+## Disclaimer
 > Este material é usado na 3a unidade da disciplina Pensamento Computacional do Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte.
 
 * Autor: Leonardo Bezerra

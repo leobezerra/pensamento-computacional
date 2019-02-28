@@ -76,9 +76,13 @@ O foco destes problemas está na capacidade de propor soluções baseadas em est
 
 Estes problemas focam na capacidade de identificar o tipo de repetição adequado para a resolução de determinados problemas, além de trabalhar a habilidade de entender algoritmos sob diferentes formas de representação.
 
+#### Coleções de dados
+
+Nestes problemas, o foco está na capacidade de entender como dados podem ser organizados em coleções e como processá-los para extrair informações.
+
 #### Estratégias de solução
 
-A principal habilidade trabalhada por estes problemas é a compreensão de estratégias de solução complexas, construídas não só a partir de decisão e repetição, mas também de coleções de dados.
+A principal habilidade trabalhada por estes problemas é a compreensão de estratégias de solução complexas, focando em padrões de modelagem e solução.
 
 ## Disclaimer
 > Este material é usado na 2a unidade da disciplina Pensamento Computacional do Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte.

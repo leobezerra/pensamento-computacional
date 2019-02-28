@@ -65,7 +65,8 @@ Os problemas abaixo estão agrupados pelas habilidades específicas que eles mai
 
 * [01 - Algoritmos e programação estruturada](01.md)
 * [02 - Repetição e formas de representação](02.md) 
-* [03 - Estratégias de solução](03.md)
+* [03 - Coleções de dados](03.md)
+* [04 - Estratégias de solução](04.md)
 
 #### Algoritmos e programação estruturada
 

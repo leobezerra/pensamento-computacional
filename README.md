@@ -66,7 +66,9 @@ Os problemas abaixo estão agrupados pelas habilidades específicas que eles mai
 * [01 - Algoritmos e programação estruturada](01.md)
 * [02 - Repetição e formas de representação](02.md) 
 * [03 - Coleções de dados](03.md)
+<!---
 * [04 - Estratégias de solução](04.md)
+--->
 
 #### Algoritmos e programação estruturada
 
@@ -80,9 +82,10 @@ Estes problemas focam na capacidade de identificar o tipo de repetição adequad
 
 Nestes problemas, o foco está na capacidade de entender como dados podem ser organizados em coleções e como processá-los para extrair informações.
 
+<!---
 #### Estratégias de solução
-
 A principal habilidade trabalhada por estes problemas é a compreensão de estratégias de solução complexas, focando em padrões de modelagem e solução.
+--->
 
 ## Disclaimer
 > Este material é usado na 2a unidade da disciplina Pensamento Computacional do Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte.

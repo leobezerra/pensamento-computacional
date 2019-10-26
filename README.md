@@ -1,32 +1,10 @@
-# Pensamento computacional com Blockly
+# Pensamento computacional (des)plugado
 
 Este repositório foi pensado para quem está tendo um primeiro contato com pensamento computacional (ou apenas com lógica de programação), mas ainda não tem experiência com linguagens de programação.
 
-Também pode ser útil pra quem está iniciando em programação e já teve primeiros contatos com alguma linguagem de programação, mas quer melhorar sua capacidade de resolver problemas e entender melhor os fundamentos da lógica de programação.
+Também pode ser usado por quem está iniciando em programação e já teve primeiros contatos com alguma linguagem de programação, mas quer melhorar sua capacidade de resolver problemas e entender melhor os fundamentos da lógica de programação.
 
-> Se você está mais avançado do que isso, dê uma olhada nesse outro [repositório](https://github.com/leobezerra/python-zero) 🙃
-
-Antes de tentar os exercícios deste repositório, complete primeiro os níveis de programação visual do curso de [Introdução acelerada à ciência da computação](https://studio.code.org/s/20-hour) do site [Code.org](https://code.org).
-
-## Executando o Blockly
-
-#### Opção 1: Binder
-
-A forma mais simples de executar o Blockly neste repositório é clicar no badge abaixo (imagem). 
-
-Caso escolha esta opção, siga as instruções [deste tutorial](binder.md).
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pensamento-computacional/master)
-
-#### Opção 2: Clone
-
-A segunda forma de executar o Blockly neste repositório é cloná-lo para sua máquina. 
-
-Esta opção exige que você tenha um maior conhecimento de computação, uma vez que terá que instalar alguns programas e pacotes. 
-
-Caso escolha esta opção, siga as instruções [deste tutorial](clone.md).
-
-## Pensamento computacional
+## Resolvendo problemas com pensamento computacional
 
 Este repositório contém uma série de problemas a serem resolvidos computacionalmente.
 
@@ -45,7 +23,7 @@ Assim como na matemática, a melhor forma de aprimorar esta habilidade é resolv
 
 A segunda habilidade envolve a capacidade de compreender lógica de programação e como utilizá-la para propor uma solução para o problema.
 
-Neste repositório, a cada problema apresentado, você deverá analisar quais blocos estão à sua disposição e propor uma solução utilizando apenas esses blocos.
+Neste repositório, a cada problema apresentado, você deverá propor uma solução abstrata que posteriormente possa ser implementada usando programação visual ou textual.
 
 > **Atenção**: para desenvolver esta habilidade, utilizaremos o conceito de **computação desplugada**. Isto significa que você deverá propor a solução sem o auxílio do computador, apenas com caneta e papel 😏 
 
@@ -53,9 +31,34 @@ Neste repositório, a cada problema apresentado, você deverá analisar quais bl
 
 A terceira habilidade envolve a capacidade de traduzir a solução abstrata proposta em uma implementação concreta que o computador possa executar.
 
-Aqui, usaremos o Blockly como plataforma de implementação e avaliação. 
+Aqui, você tem duas opções como plataforma de implementação e avaliação:
+1. Usar programação visual com blocos através do Blocky
+> Se você quer usar o Blockly mas nunca programou com blocos, complete primeiro os níveis de programação visual do curso de [Introdução acelerada à ciência da computação](https://studio.code.org/s/20-hour) do site [Code.org](https://code.org).
+2. Usar a linguagem de programação de sua escolha
+> Se você tem interesse de usar Python mas nunca programou nessa linguagem, dê uma olhada [nesse repositório](https://github.com/leobezerra/python-zero) 🙃
 
 A capacidade de avaliar a solução proposta e sua implementação é importante porque, em caso de erro, você deverá conseguir identificar como voltar às etapas anteriores e corrigir o que estiver errado.
+
+<!---
+## Executando o Blockly
+
+#### Opção 1: Binder
+
+A forma mais simples de executar o Blockly neste repositório é clicar no badge abaixo (imagem). 
+
+Caso escolha esta opção, siga as instruções [deste tutorial](binder.md).
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/pensamento-computacional/master)
+
+#### Opção 2: Clone
+
+A segunda forma de executar o Blockly neste repositório é cloná-lo para sua máquina. 
+
+Esta opção exige que você tenha um maior conhecimento de computação, uma vez que terá que instalar alguns programas e pacotes. 
+
+Caso escolha esta opção, siga as instruções [deste tutorial](clone.md).
+
+--->
 
 ## Problemas
 

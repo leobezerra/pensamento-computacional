@@ -32,7 +32,7 @@ Neste repositório, a cada problema apresentado, você deverá propor uma soluç
 A terceira habilidade envolve a capacidade de traduzir a solução abstrata proposta em uma implementação concreta que o computador possa executar.
 
 Aqui, você tem duas opções como plataforma de implementação e avaliação:
-1. Usar programação visual com blocos através do Blocky
+1. Usar programação visual com blocos através do Blocky, executando seu código [online](binder.md) ou [no seu computador](clone.md)
 > Se você quer usar o Blockly mas nunca programou com blocos, complete primeiro os níveis de programação visual do curso de [Introdução acelerada à ciência da computação](https://studio.code.org/s/20-hour) do site [Code.org](https://code.org).
 2. Usar a linguagem de programação de sua escolha
 > Se você tem interesse de usar Python mas nunca programou nessa linguagem, dê uma olhada [nesse repositório](https://github.com/leobezerra/python-zero) 🙃
